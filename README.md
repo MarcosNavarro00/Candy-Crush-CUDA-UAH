@@ -8,6 +8,7 @@ En esta primera parte del repositorio, encontrarás la implementación del juego
 ### Funcionalidades Destacadas:
 - Generación de tablero de juego aleatorio.
 - Detección y eliminación de grupos de elementos.
+- Se pueden detectar **Pares** (dos elementos continuos), **Bombas** (cinco elementos continuos), **TNT** (seis elementos continuos) y **Rompecabezas** (siete elementos continuos)
 - Lógica de juego para intercambiar elementos.
 
 ## Parte 2: Optimización con Múltiples Bloques
@@ -31,10 +32,5 @@ En la tercera parte del repositorio, hemos llevado la optimización un paso más
 
 ## Requisitos
 Para ejecutar el juego de Candy Crush en CUDA, necesitarás una tarjeta gráfica compatible con CUDA y el entorno de desarrollo CUDA configurado en tu sistema.
-
-## Instrucciones de Ejecución
-Proporcionaremos instrucciones detalladas sobre cómo compilar y ejecutar el juego en CUDA en la sección correspondiente de cada parte del repositorio.
-
-¡Diviértete jugando Candy Crush en CUDA y explorando las optimizaciones para una experiencia de juego más suave y rápida!
 
 **Nota**: Este es un proyecto en desarrollo y puede haber cambios y actualizaciones en el repositorio a medida que avanzamos en el desarrollo y la optimización del juego. Te animamos a mantenerse actualizado con las últimas mejoras y contribuir al proyecto si lo deseas.
